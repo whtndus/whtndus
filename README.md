@@ -31,8 +31,16 @@
 **Language**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Data & AI**
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Data & Analysis**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -50,6 +58,8 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
+| [JOYNER Backend](https://github.com/AI-Joy-Assistant/Backend) | AI 어시스턴트 — Google Calendar 연동, 채팅, 친구 기능 | Python, FastAPI, Docker |
+| [JOYNER Frontend](https://github.com/AI-Joy-Assistant/Frontend) | JOYNER 프론트엔드 클라이언트 | TypeScript |
 | [sports_analysis_](https://github.com/whtndus/sports_analysis_) | 스포츠 데이터 분석 프로젝트 | Python, Jupyter |
 | [Raspberry Pi](https://github.com/C-N-S-V/Raspberry_Pi) | 라즈베리파이 기반 IoT 프로젝트 | Python |
 | [Slack Bot](https://github.com/whtndus/Slack) | 라즈베리파이 데이터 Slack 연동 | Python |
@@ -75,6 +85,5 @@
 - ✍️ **Blog** : [velog.io/@whtndus](https://velog.io/@whtndus/posts)
 
 <div align="center">
-
 
 </div>
