@@ -18,11 +18,11 @@
 
 ## 🙋 About Me
 
-- 🛠️ **백엔드 개발 + 서비스 기획**을 함께 준비하고 있어요
-- 📊 데이터 사이언스와 AI/ML에 관심이 많아요
-- 🐍 Python을 주로 사용하며 데이터를 다루고 분석합니다
-- 🤝 팀 프로젝트를 좋아하고, **AI-Joy-Assistant** 조직에서 활동 중이에요
-- ✍️ 공부한 내용을 [Velog](https://velog.io/@whtndus/posts)에 기록합니다
+- 🛠️ **백엔드 개발 + 서비스 기획**을 함께 준비하고 있어요.
+- 📊 데이터 사이언스와 AI/ML에 관심이 많아요.
+- 🐍 Python을 주로 사용하며 데이터를 다루고 분석합니다.
+- 🤝 팀 프로젝트를 좋아하고, 현재 JOYNER프로젝트를 준비중입니다.
+- ✍️ 공부한 내용을 [Velog](https://velog.io/@whtndus/posts)에 기록합니다.
 
 ---
 
@@ -62,7 +62,6 @@
 | [JOYNER Frontend](https://github.com/AI-Joy-Assistant/Frontend) | JOYNER 프론트엔드 클라이언트 | TypeScript |
 | [sports_analysis_](https://github.com/whtndus/sports_analysis_) | 스포츠 데이터 분석 프로젝트 | Python, Jupyter |
 | [Raspberry Pi](https://github.com/C-N-S-V/Raspberry_Pi) | 라즈베리파이 기반 IoT 프로젝트 | Python |
-| [Slack Bot](https://github.com/whtndus/Slack) | 라즈베리파이 데이터 Slack 연동 | Python |
 | [Aladdin Unity](https://github.com/whtndus/Aladdin_Unity) | 알라딘 테마 Unity 게임 개발 | C# |
 
 ---
