@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요, whtndus\_ 입니다 👋
+# 안녕하세요, 조수연 입니다 👋
 
 **Backend Developer · Data Scientist · AI/ML Engineer · Service Planner**
 
