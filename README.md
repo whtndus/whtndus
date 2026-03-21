@@ -4,7 +4,7 @@
 
 **Backend Developer · Data Scientist · AI/ML Engineer · Service Planner**
 
-*데이터로 문제를 풀고, 기획으로 서비스를 만드는 개발자*
+데이터로 문제를 풀고, 기획으로 서비스를 만드는 개발자
 
 <br/>
 
